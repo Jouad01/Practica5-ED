@@ -37,3 +37,12 @@
 
 ![](Images/img.png)
 ![](Images/img_1.png)
+
+
+## Diagrama de ramas
+
+![](Images/diagramaramas.png)
+
+## Versionado semantico
+
+![](Images/versionadosemantico.png)
